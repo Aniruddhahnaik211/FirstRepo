@@ -73,3 +73,21 @@ git init
 java --version
 jenkins --version
 sudo apt install jenkins
+which git
+git init
+git status
+cat >file1
+cat file1
+git add .
+git status
+git commit " first commit"
+git commit -m "my commit"
+git status
+git remote add origin https://github.com/Aniruddhahnaik211/firstrepo.git
+git push origin master
+clear
+jenkins --version
+sudo update
+sudo apt update
+cat /var/lib/jenkins/secrets/initialAdminPassword
+clear
